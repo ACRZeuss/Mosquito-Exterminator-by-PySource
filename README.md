@@ -1,6 +1,6 @@
 # Mosquito-Exterminator-by-PySource
 
-  Requirements
+  **[Requirements]**
 -[Pygame](https://pypi.org/project/pygame/)
 -[Hand-Tracking-Module](https://pypi.org/project/Hand-Tracking-Module/) or [HandTracking](https://pypi.org/project/HandTracking/)
 -[Game](https://pypi.org/project/game/)
