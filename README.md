@@ -7,8 +7,8 @@
 -[Hand](https://pypi.org/project/hand/)  
 
 
-[Blog Page](https://pysource.com/2021/08/24/how-i-built-a-computer-vision-game-with-opencv-mediapipe-and-python/)
-This project created by [PySource](https://pysource.com)
-[Tutorial Video](https://www.youtube.com/watch?v=JrEYWFFIRG8)
-[Download](https://pysource.com/wp-content/uploads/2021/08/source-code-mosquito-game.zip)
+[Blog Page](https://pysource.com/2021/08/24/how-i-built-a-computer-vision-game-with-opencv-mediapipe-and-python/)  
+This project created by [PySource](https://pysource.com)  
+[Tutorial Video](https://www.youtube.com/watch?v=JrEYWFFIRG8)  
+[Download](https://pysource.com/wp-content/uploads/2021/08/source-code-mosquito-game.zip)  
 Thanks for [PySource](https://pysource.com)
